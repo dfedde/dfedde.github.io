@@ -1,0 +1,97 @@
+name: Duncan Fedde
+contact_Info:
+  - email: duncan@fedde.us
+work_history:
+  - employer: eeshoo
+    start: Sep 2012
+    end: Mar 2014
+    skills:
+      - PHP
+      - Wordpress
+      - aws
+      - bitbucket
+      - git
+      - heroku
+      - linux
+      - ruby
+  - employer: HiWiPi
+    start: Dec 2012
+    end: Mar 2014
+    skills:
+      - PHP
+      - Wordpress
+      - aws
+      - bitbucket
+      - git
+      - heroku
+      - linux
+      - ruby
+  - employer: Software Freedom Schools
+    title: Educator
+    start: Oct 2014
+    end: May 2019
+    skills: 
+      - docker
+      - git
+      - github
+      - reveal.js
+      - ruby
+  - employer: Enserca
+    title: Software Developer 
+    start: Mar 2014
+    end: Jun 2015
+    skills:
+      - docker
+      - git
+      - gitlab
+      - gitlab-ci
+      - linux
+      - ruby
+      - ruby-on-rails
+      - vim
+  - employer: Pivotal
+    title: Software Developer 
+    start: Mar 2014
+    end: Jun 2015
+    skills:
+      - bosh
+      - buildkite
+      - cloudfoundry
+      - concourse
+      - go
+      - javascript
+      - reactjs
+      - ruby
+      - ruby-on-rails
+      - terraform
+  - employer: Pivotal
+    title: Solutions Architect
+    start: May 2018
+    end: May 2019
+    skills:
+      - amazon-web-services
+      - azure
+      - bosh
+      - cloudfoundry
+      - concourse
+      - google-cloud-platform
+      - jq
+      - kubernetes
+      - networking
+      - terrafrom
+  - employer: Pivotal
+    title: Software Developer 
+    start: May 2019
+    current: true
+    skills:
+      - ansible
+      - apache-zookeeper
+      - bash
+      - c
+      - dell-networking
+      - go
+      - greenplum
+      - poweredge-severs
+      - python
+      - solr
+      - terraform
