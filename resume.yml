@@ -1,6 +1,15 @@
 name: Duncan Fedde
 contact_Info:
   - email: duncan@fedde.us
+achievements:
+  - description: |
+    Worked on the team that moved the Tracker SaaS aplication from bare metal to CloudFoundry on AWS
+  - description: |
+    Lead the team team that moved the Tracker SaaS aplication from AWS to GCP
+  - description: |
+    Helped the team move from a manual once every 2 week deploy cycle to a daily deploy 
+
+
 work_history:
   - employer: eeshoo
     start: Sep 2012
@@ -36,6 +45,12 @@ work_history:
       - github
       - reveal.js
       - ruby
+    achievements:
+     - description: |
+       Taught a Class on Docker
+     - description: |
+       Taught a Class on Ruby
+
   - employer: Enserca
     title: Software Developer 
     start: Mar 2014
@@ -49,6 +64,10 @@ work_history:
       - ruby
       - ruby-on-rails
       - vim
+    achievements:
+     - description: |
+       Rewrote a web app from Apache Wicket to Ruby on Rails
+
   - employer: Pivotal
     title: Software Developer 
     start: Mar 2014
@@ -64,6 +83,14 @@ work_history:
       - ruby
       - ruby-on-rails
       - terraform
+    achievements:
+     - description: |
+        Worked on the team that moved the Tracker SaaS application from bare metal to CloudFoundry on AWS
+     - description: |
+       Lead the team team that moved the Tracker SaaS application from AWS to GCP
+     - description: |
+       Helped the team move from a manual once every 2 week deploy cycle to a daily deploy 
+
   - employer: Pivotal
     title: Solutions Architect
     start: May 2018
@@ -79,6 +106,16 @@ work_history:
       - kubernetes
       - networking
       - terrafrom
+      - solr
+      - redis
+    achievements:
+     - description: |
+       Created a Kubernetes operator for solr 
+     - description: |
+       Moved a solr deployment from GCP VMs to kubernetes
+     - description: |
+       Moved a redis deployment from GCP VMs to kubernetes
+
   - employer: Pivotal
     title: Software Developer 
     start: May 2019
