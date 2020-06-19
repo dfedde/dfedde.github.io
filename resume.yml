@@ -87,7 +87,7 @@ work_history:
      - description: |
         Worked on the team that moved the Tracker SaaS application from bare metal to CloudFoundry on AWS
      - description: |
-       Lead the team team that moved the Tracker SaaS application from AWS to GCP
+       Lead the team that moved the Tracker SaaS application from AWS to GCP
      - description: |
        Helped the team move from a manual once every 2 week deploy cycle to a daily deploy 
 
